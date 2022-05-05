@@ -48,3 +48,7 @@ humberger-bottom {
 .humberger-middle{
     transform: translateY(7px)
 }
+
+.humberger-bottom{
+    transform: translateY(14px)
+}
